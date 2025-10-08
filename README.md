@@ -1,18 +1,31 @@
 # NCSA Mosaic byChromium
 A Chromium-based browser with a retro NCSA Mosaic design
 
-## ⚠️Disclaimer
-This project is not affiliated with NCSA or the University of Illinois and is released as a non-profit open source project.And I have the utmost respect for both of them.(It's still in its early stages, so there are many parts missing and the code has bugs, so use it at your own risk.)
+## ⚠️ Disclaimer
+This project is **unofficial** and not affiliated with NCSA or the University of Illinois. It is released purely as a non-profit, open-source project, and I hold the utmost respect for both institutions.
 
-## ♥ The reason for this project (in my opinion)
-I decided to undertake this project because I believe there are few practical things that can easily recall the past.What I want to achieve with this project is a nostalgia for the past and The practicality that comes with it
+**(Caution: This is an early stage, work-in-progress project. It contains missing features and bugs. Use at your own risk.)**
 
-## 🛜　Download and run
-Please download from the release below: NCSA_Mosaic_Chromium.zip To run it, run Mosaic_Chromium.exe.
+---
 
-## 💻We're looking for editors
-I want this project to be large scale and known by everyone, so please get involved!:)
+## The Motivation Behind This Project
+I decided to undertake this project because I believe there are few practical things that can easily recall the past. What I aim to achieve is a sense of nostalgia for the past, combined with the modern practicality that comes with it.
 
-Sorry, the initial release has a lot of unimplemented parts.:(
+---
+
+## Download and Run
+Download the latest release file, **NCSA_Mosaic_Chromium.zip**, from the [Releases] tab.
+
+To run the application, simply execute **Mosaic_Chromium.exe** inside the downloaded folder.
+
+---
+
+## Contributing (Help Wanted!)
+I want this project to be large scale and known by everyone, so please get involved! :)
+
+The initial release has many unimplemented parts, and any help with code, testing, or documentation is greatly appreciated.
+
+
+Sorry, the initial release has a lot of unimplemented parts:(
 
 
