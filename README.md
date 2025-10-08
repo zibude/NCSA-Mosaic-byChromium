@@ -26,6 +26,6 @@ I want this project to be large scale and known by everyone, so please get invol
 The initial release has many unimplemented parts, and any help with code, testing, or documentation is greatly appreciated.
 
 
-Sorry, the initial release has a lot of unimplemented parts:(
+
 
 
