@@ -3,6 +3,7 @@ A Chromium-based browser with a retro NCSA Mosaic design
 
 ## ⚠️ Disclaimer
 This project is **unofficial** and not affiliated with NCSA or the University of Illinois. It is released purely as a non-profit, open-source project, and I hold the utmost respect for both institutions.
+I'm currently planning to apply for permission to use graphic assets such as icons and logos from the University of Illinois. I won't release it until I get permission.
 
 **(Caution: This is an early stage, work-in-progress project. It contains missing features and bugs. Use at your own risk.)**
 
