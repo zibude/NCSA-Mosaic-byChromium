@@ -3,11 +3,16 @@ A Chromium-based browser with a retro NCSA Mosaic design
 
 ## ⚠️ Disclaimer
 This project is **unofficial** and not affiliated with NCSA or the University of Illinois. It is released purely as a non-profit, open-source project, and I hold the utmost respect for both institutions.
-I'm currently planning to apply for permission to use graphic assets such as icons and logos from the University of Illinois. I won't release it until I get permission.
 
 **(Caution: This is an early stage, work-in-progress project. It contains missing features and bugs. Use at your own risk.)**
 
 ---
+## 📜 License and Required Attribution
+
+This project operates under the MIT License and has received special permission from the University of Illinois Office of Technology Management (OTM) to use the original NCSA Mosaic graphic assets and icons for non-commercial, archival purposes.
+As required by the University of Illinois:
+>This reproduction is based on the Graphical User Interface developed by Colleen Bushell, Marc Andreessen and Eric Bina for Mosaic, National Center for Supercomputing Applications. Graphical User Interface: Copyright 1993 The Board of Trustees of the University of Illinois. All Rights Reserved.
+
 
 ## The Motivation Behind This Project
 I decided to undertake this project because I believe there are few practical things that can easily recall the past. What I aim to achieve is a sense of nostalgia for the past, combined with the modern practicality that comes with it.
