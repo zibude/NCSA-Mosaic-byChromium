@@ -1,6 +1,7 @@
 # NCSA Mosaic byChromium
 A Chromium-based browser with a retro NCSA Mosaic design
 ## 🖼️ images
+<img width="1363" height="745" alt="image" src="https://github.com/user-attachments/assets/c94a9476-1b18-4f00-9230-61b7f748e23d" />
 
 
 
