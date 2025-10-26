@@ -2,6 +2,8 @@
 A Chromium-based browser with a retro NCSA Mosaic design
 ## 🖼️ images
 <img width="1363" height="745" alt="image" src="https://github.com/user-attachments/assets/c94a9476-1b18-4f00-9230-61b7f748e23d" />
+<img width="1363" height="744" alt="image" src="https://github.com/user-attachments/assets/dcdfa105-9077-4181-a71a-9c82a9ba2679" />
+
 
 
 
